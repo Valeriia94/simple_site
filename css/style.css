@@ -29,7 +29,6 @@
 }
 
 html,body {
-  width: 100%;
   font-size: var(--font-size);
   font-family: var(--font-family);
   font-weight: 400;
@@ -64,11 +63,13 @@ a {
 
 
 .header {
+  
   background-color: var(--color-gray-light);
   padding-top: 69px;
   padding-bottom: 141px;
 }
 .navbar {
+  width: 100%;
   margin-bottom: 136px;
 }
 .navbar__list {
