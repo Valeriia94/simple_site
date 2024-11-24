@@ -235,7 +235,7 @@ a {
   }
 
   .experience__container {
-    flex-direction: column;
+    flex-direction: row;
     gap: var(--gap-sm);
   }
 
