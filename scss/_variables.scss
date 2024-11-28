@@ -6,13 +6,13 @@ $color-white: #ffffff;
 
 $font-size: 16px;
 $font-family: "Roboto", sans-serif;
-$letter-spacing: 0.1em;
 $line-height: 1.64;
+$letter-spacing: 0.1em;
 
-$container-primary: 1110px;
-$container-secondary: 540px;
+$container-primary: 69.375rem;
+$container-secondary: 33.75rem;
 
 $gap: 20px;
-$gap-sm: $gap * 0.5;
-$gap-md: $gap * 1.5;
-$gap-lg: $gap * 2;
+$gap-sm: calc($gap * 0.5);
+$gap-md: calc($gap * 1.5);
+$gap-lg: calc($gap * 2);

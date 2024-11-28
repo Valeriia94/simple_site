@@ -1,0 +1,11 @@
+.experience {
+  padding-top: 6.25rem;
+  padding-bottom: 5.75rem;
+  background-color: #34547a;
+  &__container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: ($gap);
+  }
+}
